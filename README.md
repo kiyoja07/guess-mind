@@ -1,4 +1,4 @@
 # guess-mind
 Realtime Drawing Game built with SocketIO, Gulp and Node
 
-3.3 Browserify part Two
+4.0 Login Flow part One
